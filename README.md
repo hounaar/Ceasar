@@ -1,5 +1,5 @@
 
-# Cesar Cipher File Encoder/Decoder
+# Ceasar Cipher File Encoder/Decoder
 
 This is a collection of command-line scripts in Python, C++, and Perl for encoding and decoding text files using the Caesar cipher. Each script provides several options for working with input files, including encoding, decoding, printing, and saving to PDF.
 
